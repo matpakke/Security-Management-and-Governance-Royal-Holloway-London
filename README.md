@@ -65,3 +65,6 @@ The course consists of four weeks that focus on key areas of effective security 
 | Week 3. People and cyber security | **Key concepts**:<br /> People; Security Vetting; Contracting <br /> **Learning outcomes**: <br />• Develop an appreciation of the different types of people and how to manage competing interests in an ISMS. <br />• Identify and implement different controls for the management of people in organizations. |
 | Week 4. A security management ecosystem | **Key concepts**:<br /> Security Awareness Training; Trust; Acceptable Use Policies <br /> **Learning outcomes**: <br />• Evaluate the impact of integration of people-centric security into an ISMS. |
 
+
+## Activities of this course
+The course is comprised of the following elements:
