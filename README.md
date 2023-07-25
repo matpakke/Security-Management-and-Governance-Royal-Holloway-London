@@ -93,6 +93,35 @@ recommended that learners engage in these debates with their fellow peers.
 
 ---
 
+# Week 1 
+
+## Introduction to incident management and response
+
+### ISO/IEC 27035
+- **Part 1**: Principles of incident maanagement
+- **Part 2**: Guidelines to plan and prepare for incident response
+- **Part 3**: Guidelines for ICT incident response operations
+
+---
+
+An **Information security incident** is *"One or multiple related and identified information security events that can harm an organization's assets or compromisise its operations."* - **ISO/IEC 27035-1, Clause 3.4**
+
+Or *"a violation or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices."* - **NIST SP 800-61, Section 2.1**
+
+*"occcurence indicating a possible breach of information security or a failure of controls."* - **ISO/IEC 27035-1, 3.3**
+
+### ISO/IEC 27035: The Incident Security Incident Management Guide
+
+![The Incident Security Incident Management Guide](gallery/InfoSec%20Incident%20Management%20Guide.png)
+
+1. Plan & Prepare
+2. Identify, Detect & Report
+3. Assessment & Decision
+4. Responses
+5. Lessons Learnt
+
+---
+
 # US National Institute of Standards and Technology’s (NIST) 800-61
 
 In this reading, you will be exploring the first two sections of the US National Institute of Standards and Technology’s (NIST) 800-61. Pay attention to the number of different components that security management and governance needs to consider. When reading the material, think how this may apply in various ways to different organisations – would this work with larger and smaller organisations in similar ways, for instance?
@@ -100,6 +129,17 @@ In this reading, you will be exploring the first two sections of the US National
 Please read:
 
 - Cichonski, P., T. Millar, T. Grance and K. Scarfone [NIST Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf) (Gaithersburg, MD, 2012). The ‘Executive Summary’ and 2.1 of NIST SP 800-61.
+
+### 5 Key Elements of a Modern Cybersecurity Framework
+
+Most organizations base their cybersecurity approach on an established model like the National Institute of Standards and Technology (NIST) Cybersecurity Framework. The five key functions in the framework are:
+
+- Identify
+- Protect
+- Detect
+- Respond
+- Recover
+
 
 ---
 
@@ -112,6 +152,10 @@ In this reading, you will engage with the UK National Cyber Security Centre's (N
 ## Additional material
 
 If you wish to read about cyber resilience (the focus of the next video) and how it can help in assisting with thinking about preparation for incidents and thinking more broadly, please read Hausken, K. ‘[Cyber resilience in firms, organizations and societies](https://doi.org/10.1016/j.iot.2020.100204)’, Internet of Things 11 2020, 100204. 
+
+---
+
+The UK's National Cyber Security Centre defines cyber resillience as *"a measure of how readily a system can persist in a changing environment."*
 
 ---
 
