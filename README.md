@@ -85,3 +85,33 @@ you will need to complete and share outputs on discission forum. It is strongly
 recommended that learners engage in these debates with their fellow peers.
 - Graded quizzes.
   - There is a graded quiz in the end of each week.
+
+
+---
+
+*'The organization shall plan and prepare for managing information security incidents by defining, estabishing and communicating information security incident management processes, roles, and responsibilities.'* - ISO/IEC 27002, Clause 5.24
+
+---
+
+# US National Institute of Standards and Technology’s (NIST) 800-61
+
+In this reading, you will be exploring the first two sections of the US National Institute of Standards and Technology’s (NIST) 800-61. Pay attention to the number of different components that security management and governance needs to consider. When reading the material, think how this may apply in various ways to different organisations – would this work with larger and smaller organisations in similar ways, for instance?
+
+Please read:
+
+- Cichonski, P., T. Millar, T. Grance and K. Scarfone [NIST Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf) (Gaithersburg, MD, 2012). The ‘Executive Summary’ and 2.1 of NIST SP 800-61.
+
+---
+
+# Incident management planning
+
+In this reading, you will engage with the UK National Cyber Security Centre's (NCSC) high-level overview to incident management planning. Pay particular attention to how this relates to ISO/IEC 27005-2, “Guidelines to plan and prepare for incident response” addressed in the previous lecture.  You may also wish to compare this to NIST SP 800-61.
+
+- UK National Cyber Security Centre,  [Incident Management Guidance (How to effectively detect, respond to and resolve cyber incidents)](https://www.ncsc.gov.uk/collection/incident-management/cyber-incident-response-processes)
+
+## Additional material
+
+If you wish to read about cyber resilience (the focus of the next video) and how it can help in assisting with thinking about preparation for incidents and thinking more broadly, please read Hausken, K. ‘[Cyber resilience in firms, organizations and societies](https://doi.org/10.1016/j.iot.2020.100204)’, Internet of Things 11 2020, 100204. 
+
+---
+
