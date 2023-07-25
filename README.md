@@ -39,7 +39,8 @@ for an organisation
 4. Compare different incident response actions according to an organisation’s
 needs
 
-Readings
+## Readings
+
 The pieces of reading are available on the web:
 1. Cichonski, P., T. Millar, T. Grance and K. Scarfone [NIST Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf). (Gaithersburg, MD, 2012). The ‘Executive Summary’ and 2.1 of NIST
 SP 800-61.
@@ -52,5 +53,18 @@ of the 51st Hawaii International Conference on System Sciences 2018
 Conference, HAS 2017, Held as Part of HCI International 2017, Vancouver, BC,
 Canada, 9–14 July 2017, Section 1 (Introduction) to the end of Section 4.
 6. NCSC, [Telling users to avoid clicking bad links still isn't working](https://www.ncsc.gov.uk/blog-post/telling-users-to-avoid-clicking-bad-links-still-isnt-working)
-7. Sasse, M.A. and A. Rashid ‘ [Human Factors Knowledge Area: Issues 1.0](https://www.cybok.org/media/downloads/Human_Factors_issue_1.0.pdf)’ Cyber
-Security Body of Knowledge (CyBoK) (London: NCSC, 2019)
+7. Sasse, M.A. and A. Rashid ‘ [Human Factors Knowledge Area: Issues 1.0](https://www.cybok.org/media/downloads/Human_Factors_issue_1.0.pdf)’ Cyber Security Body of Knowledge (CyBoK) (London: NCSC, 2019)
+
+## Course outline
+The course consists of four weeks that focus on key areas of effective security management.
+
+| Week | Key concepts & Learning outcomes |
+|-----------------|-----------------|
+| Week 1. Introduction to Security Management and Governance |**Key concepts**:<br />
+Incidents, plans for incidents, cyber resilience. <br /> **Learning outcomes**: <br />• Describe and identify what an incident is and how to prioritize them. <br />• Appraise how planning and exercising plans for incidents can improve cyber resilience. |
+| Week 2. Incident response and assessing incidents | **Key concepts**:<br />
+Incident Planning; Incident Response Teams; Incident Reporting. <br /> **Learning outcomes**: <br />• Assess how to report incidents and effective mechanisms for building resilience for an organization. <br />• Compare different incident response actions according to an organization's needs. |
+| Week 3. People and cyber security | **Key concepts**:<br /> People; Security Vetting; Contracting <br />
+**Learning outcomes**: <br />• Develop an appreciation of the different types of people and how to manage competing interests in an ISMS. <br />• Identify and implement different controls for the management of people in organizations. |
+| Week 4. A security management ecosystem | **Key concepts**:<br /> Security Awareness Training; Trust; Acceptable Use Policies <br /> **Learning outcomes**: <br />• Evaluate the impact of integration of people-centric security into an ISMS. |
+
