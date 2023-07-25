@@ -108,7 +108,7 @@ An **Information security incident** is *"One or multiple related and identified
 
 Or *"a violation or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices."* - **NIST SP 800-61, Section 2.1**
 
-*"occcurence indicating a possible breach of information security or a failure of controls."* - **ISO/IEC 27035-1, 3.3**
+Information security event is *"an occcurence indicating a possible breach of information security or a failure of controls."* - **ISO/IEC 27035-1, 3.3**
 
 ### ISO/IEC 27035: The Incident Security Incident Management Guide
 
@@ -177,3 +177,5 @@ The UK's National Cyber Security Centre defines cyber resillience as *"a measure
 [Effective steps to cyber exercise creation](https://www.ncsc.gov.uk/guidance/effective-steps-to-cyber-exercise-creation)
 
 ![cyber exercise](gallery/cyber_exercise_creation.jpg)
+
+![excerises](gallery/Live%20TableTop%20DiscussionBase%20Exercises.png)
