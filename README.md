@@ -120,7 +120,7 @@ Or *"a violation or imminent threat of violation of computer security policies, 
 4. Responses
 5. Lessons Learnt
 
-![The Incident Security Incident Management Flow](gallery\incident%20management%20appendix%20c%20image.png)
+![test](gallery/incident-management-appendix-c-image.png)
 
 ---
 
