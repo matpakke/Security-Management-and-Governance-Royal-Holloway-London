@@ -89,7 +89,7 @@ recommended that learners engage in these debates with their fellow peers.
 
 ---
 
-*'The organization shall plan and prepare for managing information security incidents by defining, estabishing and communicating information security incident management processes, roles, and responsibilities.'* - ISO/IEC 27002, Clause 5.24
+*"The organization shall plan and prepare for managing information security incidents by defining, estabishing and communicating information security incident management processes, roles, and responsibilities."* - **ISO/IEC 27002, Clause 5.24**
 
 ---
 
