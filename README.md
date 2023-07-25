@@ -170,4 +170,4 @@ The UK's National Cyber Security Centre defines cyber resillience as *"a measure
 6. A need to store information during the whole incident managment process
 7. Rules and circumstances when information should be shared internally and externally
 8. Identifying lessons learned and any improments to planning or security in general
-9. Implementing the identified improvements
+9. Implementing the identified improvements.
