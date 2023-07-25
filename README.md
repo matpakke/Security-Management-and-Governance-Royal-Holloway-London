@@ -120,6 +120,8 @@ Or *"a violation or imminent threat of violation of computer security policies, 
 4. Responses
 5. Lessons Learnt
 
+![The Incident Security Incident Management Flow](gallery\incident-management-appendix-c-image.png)
+
 ---
 
 # US National Institute of Standards and Technology’s (NIST) 800-61
@@ -140,7 +142,6 @@ Most organizations base their cybersecurity approach on an established model lik
 - Respond
 - Recover
 
-
 ---
 
 # Incident management planning
@@ -159,3 +160,14 @@ The UK's National Cyber Security Centre defines cyber resillience as *"a measure
 
 ---
 
+## ISO/IEC 27035-2:2016 The Guidelines to Plan and Prepare for Incident Response
+
+1. Responding to information security incidents
+2. Determining if information security events become incidents
+3. Managing an incident to its conclusion
+4. Responding toformation security vulnerabilities
+5. Requirements for reporting
+6. A need to store information during the whole incident managment process
+7. Rules and circumstances when information should be shared internally and externally
+8. Identifying lessons learned and any improments to planning or security in general
+9. Implementing the identified improvements
