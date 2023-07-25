@@ -178,4 +178,6 @@ The UK's National Cyber Security Centre defines cyber resillience as *"a measure
 
 ![cyber exercise](gallery/cyber_exercise_creation.jpg)
 
+## Levels of Exercises
+
 ![excerises](gallery/Live%20TableTop%20DiscussionBase%20Exercises.png)
