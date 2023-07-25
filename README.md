@@ -68,3 +68,20 @@ The course consists of four weeks that focus on key areas of effective security 
 
 ## Activities of this course
 The course is comprised of the following elements:
+
+- Lecture videos.
+  - Lectures broadly divided into four weeks that evolve from theoretical foundation to security management and governance in action.
+- Readings.
+  - Many resources on the web, which included in this course, provide good source
+of information to expand on the lecture videos.
+- Investigating activities.
+  - Conducting web search and recording findings to a study journal.
+- Peer Reviewed Assignment.
+  - One peer reviewed assignment that needs to pass by providing constructive
+feedback to peers and discuss what you can learn from their work.
+- Discussion Prompt.
+  - There are many activities included in discussion prompts in every week which
+you will need to complete and share outputs on discission forum. It is strongly
+recommended that learners engage in these debates with their fellow peers.
+- Graded quizzes.
+  - There is a graded quiz in the end of each week.
