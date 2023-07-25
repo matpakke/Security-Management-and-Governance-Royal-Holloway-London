@@ -171,3 +171,9 @@ The UK's National Cyber Security Centre defines cyber resillience as *"a measure
 7. Rules and circumstances when information should be shared internally and externally
 8. Identifying lessons learned and any improments to planning or security in general
 9. Implementing the identified improvements.
+
+---
+
+[Effective steps to cyber exercise creation](https://www.ncsc.gov.uk/guidance/effective-steps-to-cyber-exercise-creation)
+
+![cyber exercise](gallery/cyber_exercise_creation.jpg)
