@@ -30,17 +30,6 @@ Please read:
 
 ---
 
-## Lessons learned from an information security incident
-
- In this reading, you will explore how to share any lessons learned from an information security incident. The core reading focuses on how organisations may encourage and support people – particularly through senior leadership engagement and a supporting and trusting atmosphere. 
-
-Please read:
-
-- Tatu,  Ament, and Jaeger. (2018) ‘[Lessons learned from an information security incident: a practical recommendation to involve employees in information security](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1488&context=hicss-51).’, Proceedings of the 51st Hawaii International Conference on System Sciences. 
-
-
----
-
 # Activity: Information sharing partnerships
 
 In the last lecture, you explored what it might mean to identify an incident through different data feeds. This is because contemporary cyber security and its management and governance requires significant amounts of data to develop situational awareness and to identify anomalies in networks and processes.
@@ -86,6 +75,10 @@ In conclusion, information sharing partnerships are indispensable in contemporar
 
 Both CERTs and SOCs are not equivalent to IRTs and CSIRTs, but may play a role in incident management.
 
+## Three types of Incident Response Team identified in ISO/IEC 27035-2
+
+The three types are Single, Hierarchical, and Remote. You’re right! Single IRTs are typically only responsible for one organisation; Hierarchical IRTs typically connect multiple IRTs that focus on different aspects of security in larger organisations; and Remote IRTs are typically outsourced to third parties.
+
 ---
 
 # Incident response actions
@@ -107,3 +100,112 @@ Containment should be considered in advance during planning for each major incid
 **Recovery** must be phased over time with remediation depending on the priority of different systems.
 
 Returning systems back to their usual functioning can be complex and take a long time
+
+---
+
+## Reporting incidents
+requires good documentation to enable:
+- A secure and easily accessible repository of detection events
+- Effective communication during, and post, incident
+
+---
+
+### Plan and prepare 
+- Preparation of preformatted forms
+- taxonomy for classifying incidents
+- Defining who is responsible for dealing with incidents
+- How reports should be handled and distributed
+
+### Detection and reporting
+- The production of technical reports
+- How digital evidence is collected, stored and logged for forensics
+
+### Assessment and decision
+- All decisions and activities need to be logged
+- Propper reporting during decision assists with remedial actions and how to learn lessons in the future
+
+### Responses
+- Ensure digital evidence is stored security
+- Communication often becomes important during response - such as to law enforcement and potentially the media
+- A post incident activity report should be produced
+
+### Lessons Learnt 
+- More thorough reports should be produced on the incident
+- Communication may continue with legal and regulatory enforcement, such as under the EU's GDPR
+
+---
+
+# Reporting is:
+- essential for legal proceedings and dealing with law enforcement
+- essential for ensurinf that information security incidents likelihood is either eliminated or reduced by examination of what happeded.
+
+---
+
+## Lessons learned from an information security incident
+
+ In this reading, you will explore how to share any lessons learned from an information security incident. The core reading focuses on how organisations may encourage and support people – particularly through senior leadership engagement and a supporting and trusting atmosphere. 
+
+Please read:
+
+- Tatu,  Ament, and Jaeger. (2018) ‘[Lessons learned from an information security incident: a practical recommendation to involve employees in information security](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1488&context=hicss-51).’, Proceedings of the 51st Hawaii International Conference on System Sciences. 
+
+---
+
+# How to learn lessons from incidents?
+
+Lessons learnt may lead to: 
+- Changing security controls
+- A new or revised risk assessment
+- Changes to planning, procedures, and reporting
+
+ISO/IEC 27035-2
+
+A balance between immediate and long-term security controls need to be considered
+
+Risk assessments may need to be revised to reflect the changing threat landscape and organization's capacity to respons.
+
+Lessons learnt may not just require a revision of a risk assessment but of how an organization responses to threats.
+
+---
+
+What are the five main components of incident management and response covered by ISO/IEC 27035-1? Provide each step as well as a brief description of each.
+
+SO/IEC 27035-1 provides five different steps that incident management and response
+
+1. Planning and preparation; ensuring that appropriate risk planning, mitigation, and responsibilities are clearly laid out as well as testing plans.
+
+2. Detecting and reporting; ensuring that there are adequate controls in place for monitoring and reporting events. This may include both proactive and reactive forms of detection. It isimportant to keep good documentation to ensure that events are logged so that anomalies and patterns can be identified.
+
+3. Assessment and decision; here, an organisation must have plans to decide when an event becomes an incident and who is responsible for escalation and making such a decision.
+
+4. Responses; an organisation may have a set of different responses (and responsibilities) depending on the type of incident they are faced with. The steps can be summarised as containment, eradication, and recovery. 
+
+5. Lessons Learnt: all organisations must understand why an incident occurring, how to prevent it in future, as well as develop better processes for response. This should be written in documentation and referred to as part of any changes to incident management and response.
+
+---
+
+Why might organisations want to engage with third parties in incident management and response? You may wish to consider both the use of data and who may respond.
+
+There are several considerations that you may wish to think about.
+
+First, if we turn back to the example used this week in Automotive Components Ltd, it might that an organisation does not have the capacity to have an Incident Response Team with all the different skills that are required across technical, people, and specialist skills. This may mean that a remote IRT run by a third-party may be required.
+
+Second, (big) data has become exceptionally important in determining what the threats are as well as identifying patterns and anomalies. Data sources can be widespread, including internal data, but also in information sharing partnerships. Data is one area where the use of third parties can be particularly useful in building up collective cyber resilience. It may also be useful to use threat intelligence feeds – either open-access or paid-for – to help build greater awareness of threats to then integrated as part of incident management and response. 
+
+Third, there may be need to speak with law enforcement or other government agencies responsible for legal compliance. This will depend on the type of incident and the jurisdiction in which the organisation operates.
+
+---
+
+# 5 Core Stages to Information Security Incident Management:
+1. Planning and Preparation
+2. Detection and Reporting
+3. Assessment and Decision
+4. Response
+5. Lessons Learnt
+
+---
+
+Learning Objectives:
+
+1. Assess how to report incidents and effetive mechanisms for building resillience for an organization
+2. Compare different incident response actions according to an organization's needs
